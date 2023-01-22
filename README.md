@@ -10,6 +10,7 @@ Passed dev issues:
 
 Next dev steps:
 - create all reducers 
+- make reducers call backend
 - create create and edit pages
 - remake overview pages...
 
