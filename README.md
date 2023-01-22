@@ -9,9 +9,9 @@ Passed dev issues:
   but we are typed App props interface and use it...
 
 Next dev steps:
--create all reducers 
--create create and edit pages
--remake overview pages...
+- create all reducers 
+- create create and edit pages
+- remake overview pages...
 
 
 To run the Project you should prepare backend and run it;
