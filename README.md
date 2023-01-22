@@ -5,8 +5,8 @@ Passed dev issues:
 - add some component (e.g. Authors, Author and Book pages)
 - using redux
   - add store and simple reducers
-  - got a problem with like 'Argument of type 'typeof App' is not assignable to parameter of type 'ComponentType<never>'.'
-  but we are typed App props interface and use it...
+  [#f03c15]- got a problem with like 'Argument of type 'typeof App' is not assignable to parameter of type 'ComponentType<never>'.'
+  but we are typed App props interface and use it...[#f03c15]
 
 Next dev steps:
 - create all reducers 
